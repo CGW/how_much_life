@@ -1,0 +1,24 @@
+        html{
+            border-top: #9c668b 10px solid;
+        }
+        @font-face {
+            font-family: SFThin;
+            src: url(http://cward.nyc/sayah/css/fonts/SystemSanFranciscoDisplayThin.ttf);
+            }
+        body {
+            font-family: SFThin;
+            font-size: 40px;
+            color: #9c668b;
+            margin: 30px;
+            }
+        select, button {
+                float: left;
+                margin-right: 10px;
+            }
+        #formfields {
+            width: 265px;
+            margin: 0px auto;
+        }
+        .accent {
+            color: #329d61;
+        }
